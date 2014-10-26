@@ -1,0 +1,4 @@
+dupak
+=====
+
+fungsional
