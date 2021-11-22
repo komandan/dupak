@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T07:24:03.743Z" agent="5.0 (X11)" etag="QqGmmrveXzXzerYQlU8p" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T12:58:50.239Z" agent="5.0 (X11)" etag="hxkKklFtyiQEHYc6VrCv" version="15.8.2" type="github">
   <diagram id="blRgcWdChYrXBXfzRITu" name="Page-1">
     <mxGraphModel dx="1952" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
         <mxCell id="HSz_vjOAt4L9EbR9tDST-56" value="UPS3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-145.97" y="317" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HSz_vjOAt4L9EbR9tDST-57" value="&lt;div&gt;&lt;b&gt;Ket. UPS&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. UPS1 (UPS Bawah) 2200VA&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. UPS2 (UPS Tengah) 3200VA&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. UPS3 (UPS Atas)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HSz_vjOAt4L9EbR9tDST-57" value="&lt;div&gt;&lt;b&gt;Ket. UPS&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. UPS1 2200VA (accu 12a)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. UPS2 3200VA&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. UPS3 2200VA&lt;/div&gt;&lt;div&gt;4. UPS3 2200VA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="305" width="275" height="95" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-59" value="Rak1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -323,6 +323,12 @@
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-102" value="PLN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="216" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HSz_vjOAt4L9EbR9tDST-103" value="Radio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="317" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HSz_vjOAt4L9EbR9tDST-105" value="Radio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-461" y="327" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
