@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T02:24:24.842Z" agent="5.0 (X11)" etag="N8ucz9otQm651irfyq3L" version="15.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T02:31:29.080Z" agent="5.0 (X11)" etag="ws4zDlNOMlcdh7ja6F8l" version="15.8.4" type="github">
   <diagram id="blRgcWdChYrXBXfzRITu" name="Page-1">
     <mxGraphModel dx="2146" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -151,12 +151,12 @@
             <mxPoint x="79.81100000000015" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HSz_vjOAt4L9EbR9tDST-49" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="JpNp-a2PqMTTFJ0xIhB9-14" edge="1">
+        <mxCell id="HSz_vjOAt4L9EbR9tDST-49" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="550" as="sourcePoint" />
+            <mxPoint x="310" y="660" as="sourcePoint" />
             <mxPoint x="75" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="520" />
+              <mxPoint x="310" y="520" />
               <mxPoint x="75" y="520" />
             </Array>
           </mxGeometry>
@@ -191,7 +191,7 @@
           <mxGeometry x="-145.97" y="317" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-57" value="&lt;div&gt;&lt;b&gt;Ket. UPS&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. UPS1 2200VA (accu 12a)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. UPS2 3200VA&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. UPS3 2200VA&lt;/div&gt;&lt;div&gt;4. UPS3 2200VA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="305" width="275" height="95" as="geometry" />
+          <mxGeometry x="334" y="305" width="275" height="95" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-59" value="Rak1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="535" width="60" height="30" as="geometry" />
@@ -203,13 +203,13 @@
           <mxGeometry x="-345" y="861" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-63" value="&lt;div&gt;&lt;b&gt;Ket. Rak1&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. Cisco Nexus 3064-X&lt;/div&gt;&lt;div&gt;2. Switch HP 1820-24G J9980A&lt;/div&gt;&lt;div&gt;3. Dell PowerEdge R620 (Bappeda)&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Lenovo Thinksystem SR530&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. Dell PowerEdge R630 (CCTV)&lt;/div&gt;&lt;div&gt;6. IBM System X3250 M4&lt;/div&gt;&lt;div&gt;7. IBM System X3250 M4&lt;/div&gt;&lt;div&gt;8. IBM System X3620 M3&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Dell PowerEdge R630 (VM Ware)&lt;/div&gt;&lt;div&gt;10. Goxi SL201-D12-CMM&lt;br&gt;&lt;/div&gt;&lt;div&gt;11. Supermicro SYS-2029GP-TR&lt;br&gt;&lt;/div&gt;&lt;div&gt;12. Dell PowerEdge R720&lt;/div&gt;&lt;div&gt;13. Dell PowerEdge R720&lt;/div&gt;&lt;div&gt;14. Xyrex Computer System RS520-E8-RS12-EV2&lt;br&gt;&lt;/div&gt;&lt;div&gt;15. Dell PowerEdge T30 Desktop Server&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="458" width="300" height="235" as="geometry" />
+          <mxGeometry x="334" y="458" width="300" height="235" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-65" value="15" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="255" y="1015" width="10" height="11" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-66" value="&lt;div&gt;&lt;b&gt;Ket. Rak2&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. CCR 1036-12G-4S&lt;/div&gt;&lt;div&gt;2. Switch HP 1820-24G J9980A&lt;/div&gt;&lt;div&gt;3. ZTE ZXA10 C320&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="729" width="275" height="61" as="geometry" />
+          <mxGeometry x="334" y="729" width="275" height="61" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-67" value="1" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="6" y="802.5" width="10" height="11" as="geometry" />
@@ -221,7 +221,7 @@
           <mxGeometry x="5" y="889.5" width="10" height="11" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-70" value="&lt;div&gt;&lt;b&gt;Ket. Rak3&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. MIkrobit Ainos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="823" width="275" height="61" as="geometry" />
+          <mxGeometry x="334" y="823" width="275" height="61" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-73" value="1" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-282" y="952" width="10" height="11" as="geometry" />
@@ -349,6 +349,42 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="95" y="170" as="sourcePoint" />
             <mxPoint x="95" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0O9N-RQOK61gyP79JPsL-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="932.5" as="sourcePoint" />
+            <mxPoint x="110" y="932.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0O9N-RQOK61gyP79JPsL-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="962.5" as="sourcePoint" />
+            <mxPoint x="110" y="962.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0O9N-RQOK61gyP79JPsL-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="993.5" as="sourcePoint" />
+            <mxPoint x="110" y="993.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0O9N-RQOK61gyP79JPsL-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="266" y="597.1600000000001" as="sourcePoint" />
+            <mxPoint x="310" y="597" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0O9N-RQOK61gyP79JPsL-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="266" y="618.5400000000001" as="sourcePoint" />
+            <mxPoint x="310" y="618.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0O9N-RQOK61gyP79JPsL-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="272" y="661.5400000000001" as="sourcePoint" />
+            <mxPoint x="316" y="661.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
