@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T02:56:24.918Z" agent="5.0 (X11)" etag="mSbKERdBOsMT-JtbON0N" version="15.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T07:14:15.589Z" agent="5.0 (X11)" etag="FKThNmMP-h95aUL2qmJK" version="15.8.4" type="github">
   <diagram id="blRgcWdChYrXBXfzRITu" name="Page-1">
-    <mxGraphModel dx="2424" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1768" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,7 +113,7 @@
           <mxGeometry x="-438" y="884" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-21" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl072a_hpe_aruba_3810m_48_port_gt_1_slot_switch;" parent="HSz_vjOAt4L9EbR9tDST-17" vertex="1">
-          <mxGeometry x="9" y="64.5" width="142" height="15" as="geometry" />
+          <mxGeometry x="9" y="64" width="142" height="15" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-32" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-100" y="390" width="130" height="30" as="geometry" />
@@ -203,13 +203,13 @@
           <mxGeometry x="-345" y="861" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-63" value="&lt;div&gt;&lt;b&gt;Ket. Rak1&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. Cisco Nexus 3064-X&lt;/div&gt;&lt;div&gt;2. Switch HP 1820-24G J9980A&lt;/div&gt;&lt;div&gt;3. Dell PowerEdge R620 (Bappeda)&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Lenovo Thinksystem SR530&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. Dell PowerEdge R630 (CCTV)&lt;/div&gt;&lt;div&gt;6. IBM System X3250 M4&lt;/div&gt;&lt;div&gt;7. IBM System X3250 M4&lt;/div&gt;&lt;div&gt;8. IBM System X3620 M3&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Dell PowerEdge R630 (VM Ware)&lt;/div&gt;&lt;div&gt;10. Goxi SL201-D12-CMM&lt;br&gt;&lt;/div&gt;&lt;div&gt;11. Supermicro SYS-2029GP-TR&lt;br&gt;&lt;/div&gt;&lt;div&gt;12. Dell PowerEdge R720&lt;/div&gt;&lt;div&gt;13. Dell PowerEdge R720&lt;/div&gt;&lt;div&gt;14. Xyrex Computer System RS520-E8-RS12-EV2&lt;br&gt;&lt;/div&gt;&lt;div&gt;15. Dell PowerEdge T30 Desktop Server&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="329" y="634" width="300" height="235" as="geometry" />
+          <mxGeometry x="-810" y="200" width="300" height="235" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-65" value="15" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="255" y="1015" width="10" height="11" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-66" value="&lt;div&gt;&lt;b&gt;Ket. Rak2&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. CCR 1036-12G-4S&lt;/div&gt;&lt;div&gt;2. Switch HP 1820-24G J9980A&lt;/div&gt;&lt;div&gt;3. ZTE ZXA10 C320&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="329" y="905" width="275" height="61" as="geometry" />
+          <mxGeometry x="329" y="603" width="275" height="61" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-67" value="1" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="6" y="802.5" width="10" height="11" as="geometry" />
@@ -221,7 +221,7 @@
           <mxGeometry x="5" y="889.5" width="10" height="11" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-70" value="&lt;div&gt;&lt;b&gt;Ket. Rak3&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. MIkrobit Ainos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="329" y="999" width="275" height="61" as="geometry" />
+          <mxGeometry x="329" y="693" width="275" height="61" as="geometry" />
         </mxCell>
         <mxCell id="HSz_vjOAt4L9EbR9tDST-73" value="1" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-282" y="952" width="10" height="11" as="geometry" />
