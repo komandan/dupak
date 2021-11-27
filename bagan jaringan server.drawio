@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-27T10:40:27.883Z" agent="5.0 (Windows)" etag="b9xy086Xy7vzE-7UFRW5" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-27T10:42:31.497Z" agent="5.0 (Windows)" etag="0KPI1PkwAnr8lgJr2IAF" version="15.8.6" type="github">
   <diagram id="blRgcWdChYrXBXfzRITu" name="Page-1">
-    <mxGraphModel dx="1831" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,7 +428,7 @@
         <mxCell id="17sKyRSMZYyo-VxgDgZJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-108" y="265" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="17sKyRSMZYyo-VxgDgZJ-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HSz_vjOAt4L9EbR9tDST-33" target="17sKyRSMZYyo-VxgDgZJ-1">
+        <mxCell id="17sKyRSMZYyo-VxgDgZJ-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1" edge="1" parent="1" source="HSz_vjOAt4L9EbR9tDST-33" target="17sKyRSMZYyo-VxgDgZJ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="340" as="sourcePoint" />
             <mxPoint x="-80" y="280" as="targetPoint" />
@@ -436,6 +436,27 @@
         </mxCell>
         <mxCell id="17sKyRSMZYyo-VxgDgZJ-4" value="-x-" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="226" y="642.5" width="18" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17sKyRSMZYyo-VxgDgZJ-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-276" y="208.5" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="17sKyRSMZYyo-VxgDgZJ-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Internet_device_wifi_modem_wifi_router_wifi_signals_wireless_internet-128.png;fontSize=8;fillColor=#000000;" vertex="1" parent="17sKyRSMZYyo-VxgDgZJ-9">
+          <mxGeometry x="5.967213114754098" y="10.576271186440678" width="40.0655737704918" height="40.0655737704918" as="geometry" />
+        </mxCell>
+        <mxCell id="17sKyRSMZYyo-VxgDgZJ-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/web-basic-2/512/702_wifi__internet_signals__network_-128.png;fontSize=8;fillColor=#000000;" vertex="1" parent="17sKyRSMZYyo-VxgDgZJ-9">
+          <mxGeometry x="33.24590163934426" width="18.754098360655735" height="18.754098360655735" as="geometry" />
+        </mxCell>
+        <mxCell id="17sKyRSMZYyo-VxgDgZJ-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/web-basic-2/512/702_wifi__internet_signals__network_-128.png;fontSize=8;fillColor=#000000;rotation=-90;" vertex="1" parent="17sKyRSMZYyo-VxgDgZJ-9">
+          <mxGeometry width="18.754098360655735" height="18.754098360655735" as="geometry" />
+        </mxCell>
+        <mxCell id="17sKyRSMZYyo-VxgDgZJ-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="248" as="sourcePoint" />
+            <mxPoint x="-108" y="270.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-250" y="271" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
