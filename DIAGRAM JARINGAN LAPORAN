@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T04:22:35.338Z" agent="5.0 (X11)" version="20.8.10" etag="6bZM7oe2iQllZJGNyoND" type="github"><diagram name="Page-1" id="bkVFuPCe_TFHzLWIe6ha">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-06-06T05:36:22.432Z" agent="5.0 (X11)" etag="9xe8h5MJU2Jl_4a_-dDe" version="20.8.10" type="github">
+  <diagram name="Page-1" id="bkVFuPCe_TFHzLWIe6ha">
+    <mxGraphModel dx="1114" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gKjdoXjlGmJ5DemD-4rF-1" value="ISP" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.cloud;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gKjdoXjlGmJ5DemD-4rF-2" value="Fiber Optic" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iCloudProgressBar;barPos=20;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gKjdoXjlGmJ5DemD-4rF-3" value="sampangkab network" style="image;html=1;image=img/lib/clip_art/computers/Network_2_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gKjdoXjlGmJ5DemD-4rF-7" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.circle;strokeColor=#222222;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gKjdoXjlGmJ5DemD-4rF-4" value="vpn" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_connection;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="58.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gKjdoXjlGmJ5DemD-4rF-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="55" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gKjdoXjlGmJ5DemD-4rF-8" value="kecamatan" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="169" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="gKjdoXjlGmJ5DemD-4rF-11" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="179" y="200" width="101" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gKjdoXjlGmJ5DemD-4rF-13" value="sampangkab network" style="image;html=1;image=img/lib/clip_art/computers/Network_2_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="420" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gKjdoXjlGmJ5DemD-4rF-15" value="internet" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="210" y="530" width="111.11" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gKjdoXjlGmJ5DemD-4rF-16" value="" style="rounded=1;arcSize=21;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="200" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
